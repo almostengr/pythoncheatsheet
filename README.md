@@ -63,6 +63,54 @@ In the example above, 5 is the lower limit of the range and 60 is the upper limi
 of the range. If your range needs to be different, then changes either or both of 
 these values.
 
+## Basic Mathematics
+
+### Addition 
+
+To do addition in Python, just have to code out two numbers and add them together 
+like you would normally do for a math problem that you were writing on paper. Just 
+keep in mind that the calculations always have to be done on the right side of the
+equals sign and will be set to the variable on the left of the equals sign. 
+
+```python
+sum = 5 + 3
+print sum
+```
+
+From the example above, the output will print 8. 
+
+### Subtraction
+
+Similar in fashion, subtraction is written just like addition, except it uses the 
+minus sign instead of the plus sign. 
+
+```python 
+difference = 10 - 3
+print difference 
+```
+
+From the example above, the output will print 7.
+
+### Multiplication
+
+Multiplication is done using the asterisk. 
+
+```python
+product = 4 * 3
+print product
+```
+
+From the example above, the output will print 12.
+
+### Division 
+
+```python 
+quotient = 20 / 5
+print quotient
+```
+
+From the example above, the output will print 4. 
+
 ## More Resources
 
 The Raspberry Pi traffic light project is written in Python code. You can review the 
