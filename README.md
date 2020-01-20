@@ -47,7 +47,7 @@ Random nubmers can be used to do countdowns or other things that are needed.
 To get a random number, you have to import the randomint class from the random library 
 by adding 
 
-```
+```python
 from random import randint
 ```
 
@@ -55,7 +55,7 @@ to the top of your Python script.
 
 Then you can set the random integer to a variable by doing 
 
-```
+```python
 myNumber = randint(5,60)
 ```
 
