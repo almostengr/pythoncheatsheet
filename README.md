@@ -19,7 +19,7 @@ are not limited to a particular data type. However, the variable does have a
 value, any future changes to that value must be of the same type. So you cannot set 
 the value of a variable to a string and then change it to a integer. 
 
-```
+```python
 myVariable = "red" 
 myOtherVariable = false
 myOtherOtherVariable = 5
